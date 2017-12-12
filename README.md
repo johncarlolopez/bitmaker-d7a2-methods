@@ -79,7 +79,7 @@ Try breaking down the problem into smaller pieces that you know wrap_text can so
 Exercise 8
 
 Read the following Ruby code that does not follow the principle of "don't repeat yourself". Rewrite it to use methods instead of repeating code. Consider what your arguments and return values should be.
-
+```
 puts "How far did person 1 run (in metres)?"
 distance1 = gets.to_f
 puts "How long (in minutes) did person 1 run take to run #{distance1} metres?"
@@ -115,3 +115,4 @@ elsif speed1 == speed2 && speed2 == speed3
 else
   puts "Well done everyone!"
 end
+```
