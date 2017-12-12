@@ -1,4 +1,5 @@
 # bitmaker-d7a2-methods
+![Bitmaker](https://cache.mailcharts.com/logos/companies/235-bitmaker-labs.png)
 
 ## Exercise 1
 
