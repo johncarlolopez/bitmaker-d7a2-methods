@@ -1,28 +1,28 @@
 # bitmaker-d7a2-methods
 
-Exercise 1
+## Exercise 1
 
 Define a method called double that accepts an argument called my_number and returns that number multiplied by 2.
 
 Try calling it multiple times and pass in different numbers each time.
 
-Exercise 2
+## Exercise 2
 
 Define a method called negative? that accepts a number as an argument and returns a boolean (true/false) indicating whether that number is negative or not.
 
 Try calling it multiple times, passing in different numbers each time.
 
-Exercise 3
+## Exercise 3
 
 Define a method called is_even? that accepts a number as an argument and returns a boolean (true/false) indicating whether that number is even or not (HINT: use the % operator).
 
 Try calling it with different numbers.
 
-Exercise 4
+## Exercise 4
 
 Define a method that accepts a string as an argument and returns false if the word is less than 8 characters long (or true otherwise).
 
-Exercise 5
+## Exercise 5
 
 In the far future, everyone spells their names backwards. Create a method called greet_backwards that greets people using their reversed names. For example:
 
@@ -40,9 +40,9 @@ Hello, adnamAadnamA! Welcome home.
 
 Notice that we would have had to modify four lines of code if we didn't have the greet_backwards method! This is just one reason methods are useful.
 
-Exercise 6
+## Exercise 6
 
-Create a method that converts Fahrenheit temperatures to Celsius in a file called exercise5.rb.
+Create a method that converts Fahrenheit temperatures to Celsius in a file called ## Exercise5.rb.
 
 Start with prompting the user for a temperature in Fahrenheit. Then call your method and pass in the user input as a parameter.
 
@@ -57,7 +57,7 @@ Don't forget to commit your progress as you go along. Once you're done, commit o
 
 TIP: Don't start your variable names with capital letters, otherwise Ruby will think you want to make a constant instead of a variable. Making a constant is a way of giving a name to a value that won't ever be reassigned.
 
-Exercise 7
+## Exercise 7
 
 Let's create a method wrap_text that wraps text in symbols of our choice. For example:
 
@@ -76,7 +76,7 @@ Hints:
 
 You'll have to call the same method multiple times.
 Try breaking down the problem into smaller pieces that you know wrap_text can solve.
-Exercise 8
+## Exercise 8
 
 Read the following Ruby code that does not follow the principle of "don't repeat yourself". Rewrite it to use methods instead of repeating code. Consider what your arguments and return values should be.
 ```
